@@ -17,11 +17,11 @@ You can use any endpoints, but here is one to help you out: https://api.wazirx.c
 - Swift for iOS
 - Clean code
 
-### Extra points for
+## Extra points for
 - Unit tests
 - Modularization
 - Documentations
 
-### Final Deliverable
+## Final Deliverable
 - Source Code on git
 - Any documentation you think that’s necessary 
