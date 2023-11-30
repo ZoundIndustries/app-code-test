@@ -5,7 +5,6 @@ You are tasked with making an app that displays a list of cryptocurrencies for a
 
 ## Requirements
 - Make sure the project is compiling
-- Try to be creative (UI/UX)
 - Provide at least 3 screens
 - Push everything you want to submit
 - Avoid using beta/canary Android Studio
@@ -16,6 +15,7 @@ You are tasked with making an app that displays a list of cryptocurrencies for a
 ## Extra points for
 - Unit tests
 - Modularization
+- Being creative (UI/UX)
 - Providing documentation
 - Currency exchange rates are not hardcoded
 
