@@ -9,7 +9,7 @@ You are tasked with making an app that displays a list of cryptocurrencies for a
 - Push everything you want to submit
 - Avoid using beta/canary Android Studio
 - Kotlin for Android
-- Swift for iOS
+- Swift and SwiftUI for iOS
 - Write according to a clean code
 
 ## Extra points for
